@@ -1,5 +1,5 @@
 {
-  "name": "poet",
+  "name": "poet-on-web",
   "version": "1.0.0",
   "description": "03/06/2020",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codepadtrg/poet.git"
+    "url": "git+https://github.com/t4nny/poet-on-web.git"
   },
   "author": "Tanveer || Nihal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codepadtrg/poet/issues"
+    "url": "https://github.com/t4nny/poet-on-web/issues"
   },
-  "homepage": "https://github.com/codepadtrg/poet#readme",
+  "homepage": "https://github.com/t4nny/poet-on-web#readme",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "body-parser": "^1.19.0",
