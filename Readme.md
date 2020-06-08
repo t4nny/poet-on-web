@@ -8,3 +8,5 @@
 03/06/2020
 
 ## Status : In Progress
+
+## Do "npm install" to install all the modules
