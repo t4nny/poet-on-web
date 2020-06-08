@@ -1,4 +1,4 @@
-# Poetry
+# Poet-On-Web
 
 ### Simple Web App To Post Your Poetry/Shayari etc.
 
